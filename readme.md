@@ -1,7 +1,3 @@
-Aqui está um exemplo de `README.md` que você pode usar para o repositório:
-
----
-
 # API Node Express - Jogadores da Champions League
 
 Este repositório contém uma API desenvolvida em Node.js e Express para gerenciar informações sobre jogadores da Champions League. A API permite realizar operações CRUD (Criar, Ler, Atualizar, Excluir) para manipular os dados dos jogadores.
